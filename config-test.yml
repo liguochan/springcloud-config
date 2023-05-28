@@ -1,1 +1,2 @@
-练习222222222222222222
+config:
+  info: "master branch,springcloud-config/config-test.yml version=4"
